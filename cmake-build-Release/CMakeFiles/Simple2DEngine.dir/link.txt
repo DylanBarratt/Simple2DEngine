@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Simple2DEngine.dir/src/input.cpp.o CMakeFiles/Simple2DEngine.dir/src/main.cpp.o -o Simple2DEngine  /usr/lib/x86_64-linux-gnu/libSDL2.so 

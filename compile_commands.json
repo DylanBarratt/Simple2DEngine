@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/dylan/Coding/Simple2DEngine/cmake-build-Release",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2 -O3 -DNDEBUG -o CMakeFiles/Simple2DEngine.dir/main.cpp.o -c /home/dylan/Coding/Simple2DEngine/main.cpp",
+  "file": "/home/dylan/Coding/Simple2DEngine/main.cpp",
+  "output": "CMakeFiles/Simple2DEngine.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/dylan/Coding/Simple2DEngine/cmake-build-Release",
+  "command": "/usr/bin/c++  -I/home/dylan/Coding/Simple2DEngine/src -isystem /usr/include/SDL2 -O3 -DNDEBUG -o CMakeFiles/Simple2DEngine.dir/src/input.cpp.o -c /home/dylan/Coding/Simple2DEngine/src/input.cpp",
+  "file": "/home/dylan/Coding/Simple2DEngine/src/input.cpp",
+  "output": "CMakeFiles/Simple2DEngine.dir/src/input.cpp.o"
+},
+{
+  "directory": "/home/dylan/Coding/Simple2DEngine/cmake-build-Release",
+  "command": "/usr/bin/c++  -I/home/dylan/Coding/Simple2DEngine/src -isystem /usr/include/SDL2 -O3 -DNDEBUG -o CMakeFiles/Simple2DEngine.dir/src/main.cpp.o -c /home/dylan/Coding/Simple2DEngine/src/main.cpp",
+  "file": "/home/dylan/Coding/Simple2DEngine/src/main.cpp",
+  "output": "CMakeFiles/Simple2DEngine.dir/src/main.cpp.o"
+}
+]
